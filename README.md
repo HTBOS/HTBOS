@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Harrison (They/Them). 
--  I’m interested in the genetics behind plant morphology as it occurs in various tissue levels. 
+-  I’m interested in the genetics behind plant morphology as it occurs in various tissue levels.
+-  Currently, I study maize pollen at Oregon State University. 
 - 📫 How to reach me: bellhar@oregonstate.edu
